@@ -1,0 +1,107 @@
+.autor h2{
+    text-align: center;
+   }
+   img{
+    width: 100%;
+    height: auto;
+   }
+   .onama p{
+    font-size: 19px;
+    line-height: 30px;
+   }
+   #registracija{
+    padding: 20px 15px;
+    background-color: #2c5dd1;
+    display: inline-block;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+   }
+   .padding{
+    padding-top: 100px;
+   }
+   .fa{
+    font-size: 45px;
+    color: #2c5dd1
+   }
+   .prijava{
+    background-color: #2c5dd1;
+    color: #fff;
+    font-weight: 700 !important;
+   }
+   .korpa{
+    display: inline-block !important;
+   }
+   th, td{
+    padding: 10px;
+   }
+   .admin-btn{
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px;
+    color: #fff;
+    background-color: #2c5dd1;
+    text-align: center;
+   }
+   .admin-btn:hover{
+    color: #fff;
+   }
+   .admin-btn:focus{
+    color: #fff;
+   }
+   .forma{
+    width: 60%;
+    height: 30px;
+   }
+   .i-name{
+    width: 20%;
+    display: block;
+   }
+   #unosKorisnika{
+    width: 30%;
+   }
+   #uloga{
+    margin-top: 10px;
+    padding: 5px;
+   }
+   #aktivan{
+    margin: 10px 0px;
+   }
+   #brendovi{
+    margin-bottom: 15px;
+   }
+   #izmenaBtn{
+    display: block;
+    padding: 10px 12px;
+    background-color: #2c5dd1;
+    color: #fff;
+    border: none;
+   }
+   .progress-bar{
+    background-color: #2c5dd1;
+   }
+   a{
+    text-decoration: none;
+   }
+   ul{
+    list-style-type: none;
+   }
+   .futer{
+    margin-top: 20px;
+    /*padding-left: 50px;*/
+   }
+   #anketa{
+    display: inline-block;
+    padding: 12px 25px;
+    background-color: #2c5dd1;
+    color: #fff;
+    font-size: 25px;
+   }
+   #anketa:hover{
+    background-color: transparent;
+    border: 2px solid #2c5dd1;
+   
+   }
+   .izmena{
+    margin-top: 20px;
+   }
